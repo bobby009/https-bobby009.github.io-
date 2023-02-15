@@ -1,0 +1,16 @@
+
+.jumbotron{
+  
+  padding-top: 100px;
+    background-color: #dafbff;
+}
+
+#projects {
+  background-color: #dafbff;
+}
+.navbar {
+  position: fixed;
+  width: 100%;
+  z-index: 1000;
+}
+
